@@ -1,0 +1,21 @@
+{
+  "name": "ts-wallet-session",
+  "version": "0.1.0",
+  "description": "A small, dependency-free TypeScript library for wallet-based session handling.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "clean": "rm -rf dist"
+  },
+  "keywords": [
+    "typescript",
+    "wallet",
+    "session",
+    "auth"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
